@@ -1,2 +1,2 @@
 # go_home_control
-Go Home Control 
+gRPC / Rest API project in Go
